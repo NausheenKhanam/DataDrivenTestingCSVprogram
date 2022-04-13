@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119903" started-at="2022-04-12T07:08:19Z" finished-at="2022-04-12T07:10:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119903" started-at="2022-04-12T07:08:19Z" finished-at="2022-04-12T07:10:19Z">
+      <class name="DDtesting.SirCSV">
+        <test-method status="PASS" signature="setup()[pri:0, instance:DDtesting.SirCSV@77f03bb1]" name="setup" is-config="true" duration-ms="8976" started-at="2022-04-12T12:38:19Z" finished-at="2022-04-12T12:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="locatorsTestingBlog()[pri:0, instance:DDtesting.SirCSV@77f03bb1]" name="locatorsTestingBlog" duration-ms="110123" started-at="2022-04-12T12:38:28Z" finished-at="2022-04-12T12:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorsTestingBlog -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DDtesting.SirCSV@77f03bb1]" name="tearDown" is-config="true" duration-ms="780" started-at="2022-04-12T12:40:19Z" finished-at="2022-04-12T12:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DDtesting.SirCSV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
